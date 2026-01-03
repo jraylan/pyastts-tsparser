@@ -2,7 +2,7 @@
  * Types for the serialized AST format from Python.
  *
  * These types mirror the serialization format defined in
- * pyastts/core/types.py
+ * pytsast/core/types.py
  */
 
 /**

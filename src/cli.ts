@@ -76,7 +76,7 @@ Examples:
 
 Input Format:
   JSON array of serialized AST nodes via stdin.
-  Each node should follow the SerializedNode format from pyastts.
+  Each node should follow the SerializedNode format from pytsast.
 `);
 }
 

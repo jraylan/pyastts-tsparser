@@ -74,8 +74,8 @@ jobs:
         run: |
           echo "## Published Package" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- **Package:** @pyastts/tsparser" >> $GITHUB_STEP_SUMMARY
+          echo "- **Package:** @pytsast/tsparser" >> $GITHUB_STEP_SUMMARY
           echo "- **Version:** ${{ steps.package-version.outputs.version }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Dry Run:** ${{ inputs.dry-run }}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "[View on npm](https://www.npmjs.com/@pyastts/tsparser)" >> $GITHUB_STEP_SUMMARY
+          echo "[View on npm](https://www.npmjs.com/@pytsast/tsparser)" >> $GITHUB_STEP_SUMMARY

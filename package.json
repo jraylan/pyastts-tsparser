@@ -1,5 +1,5 @@
 {
-  "name": "@pyastts/tsparser",
+  "name": "@pytsast/tsparser",
   "version": "1.0.0",
   "description": "TypeScript AST parser and code generator from JSON",
   "main": "dist/index.js",
